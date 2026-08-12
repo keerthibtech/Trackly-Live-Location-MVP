@@ -18,7 +18,7 @@ Trackly is a GPS-based live location tracking MVP built using HTML, CSS, JavaScr
 - CSS
 - JavaScript
 - Leaflet.js
-- OpenStreetMap
+- OpenStreetMap.
 
 ## 🎯 Project Goal
 
